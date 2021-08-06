@@ -1,0 +1,35 @@
+{
+  "name": "DevKaizen",
+  "short_name": "devKaizen",
+  "description": "Portfolio Landing page of DevKaizen, Designer & Developer.",
+  "icons": [
+    {
+      "src": "/images/icons/144.png",
+      "type": "image/png","sizes": "144x144"
+    },
+    {
+      "src": "/images/icons/152.png",
+      "type": "image/png", "sizes": "152x152"
+    },
+    {
+      "src": "/images/icons/192.png",
+      "type": "image/png", "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons/512.png",
+      "type": "image/png", "sizes": "512x512"
+    },
+    {
+      "src": "images/icons/mask_icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#4553C2",
+  "scope": "/",
+  "orientation": "portrait-primary"
+}

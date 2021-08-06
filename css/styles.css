@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 100vh;
+    background-color: #121212;
+    color: #fff;
+    overflow-x: hidden;
+    font-family: "Maven Pro", sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+nav {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #4553C2;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4rem;
+    padding-bottom: 3rem;
+}
+
+.hero img {
+    opacity: .6;
+}
+
+h1 {
+    font-size: 9vw;
+    padding: 3rem 0;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 50%;
+}
+
+.name {
+    -webkit-text-stroke: 1.6px white;
+    -webkit-text-fill-color: transparent;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem 0;
+    border-top: 1px solid #4553C2;
+    border-bottom: 1px solid #4553C2;
+}
