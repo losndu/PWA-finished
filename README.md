@@ -1,1 +1,1 @@
-inished files of tutorial that demonstrates how to create a simple PWA ready website by DevKaizen.
+Finished files of tutorial that demonstrates how to create a simple PWA ready website by DevKaizen.
